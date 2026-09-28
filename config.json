@@ -1,0 +1,21 @@
+{
+  "esp_enabled": true,
+  "esp_boxes": true,
+  "esp_names": false,
+  "esp_max_dist": 256,0,
+  "triggerbot_enabled": true,
+  "triggerbot_cooldown": 1,00,
+  "triggerbot_range": 3,0,
+  "triggerbot_only_crits": true,
+  "aimassist_enabled": true,
+  "aimassist_range": 6,0,
+  "aimassist_speed": 20,0,
+  "aimassist_smooth": 1,0,
+  "aimassist_fov": 360,0,
+  "aimassist_players": true,
+  "aimassist_mobs": false,
+  "autosprint_enabled": true,
+  "autosprint_wtap": true,
+  "autosprint_jump": false,
+  "autosprint_resume_ticks": 4
+}

@@ -1,0 +1,10 @@
+build/
+.idea/
+.vscode/
+.freebuff/
+logs/
+*.log
+hs_err_*.log
+core.*
+/tmp/
+Agent.md
